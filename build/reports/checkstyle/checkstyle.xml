@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.6.1">
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\adapters\CardViewOptionsAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\adapters\ImageAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\adapters\NestedListView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\adapters\RestaurantsCardViewAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\dao\CityDao.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\dao\WidgetCheckListDao.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\database\AppDataBase.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\database\Converters.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\flipviewpager\adapter\BaseFlipAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\flipviewpager\utils\FlipSettings.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\flipviewpager\view\FlipViewPager.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\CitiesTravelledAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\DeleteProfilePictureActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\FullScreenImage.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\HomeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\MainActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\ProfileActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\SettingsFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\SplashActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\VerifyEmailActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\CityAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\CityFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\CityHistoryActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\CityHistoryAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\CityImageSliderAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\CityMapActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\FinalCityInfoActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\FinalCityInfoPresenter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\FinalCityInfoView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\PlacesOnMapActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\RestaurantsActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\WeatherActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\description\WeatherAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\funfacts\FunFactsActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\funfacts\FunFactsPresenter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\funfacts\FunFactsView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\destinations\funfacts\FunfactFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\favourite\FavouriteCitiesAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\favourite\FavouriteCitiesFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\login\LoginActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\login\LoginPresenter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\login\LoginView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\mytrips\AddNewTripActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\mytrips\MyTripInfoActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\mytrips\MyTripsFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\mytrips\TripImageActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\mytrips\TripsListAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\notifications\NotificationsActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\notifications\NotificationsAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\roompersistance\BooleanConverter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\searchcitydialog\CitySearchBottomSheetDialogFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\searchcitydialog\CitySearchModel.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\HotelsActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\ListViewRealTimeActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\MapViewRealTimeActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\ShoppingAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\ShoppingCurrentCityActivity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\TravelFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\MapListItemAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\ViewPageFragmentsAdapter.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\AtmModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\BusStopModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\EatModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\HangoutSpotFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\HospitalModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\MonumentsModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\PetrolModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\io\travel\swipefragmentrealtime\modefragments\ShoppingModeFragment.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\ChecklistItem.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\City.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\CityHistoryListItem.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\FunFact.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\MapItem.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\Notification.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\Trip.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\User.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\Weather.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\objects\ZoneName.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\CardItemEntity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\CircleImageView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\Constants.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\DateUtils.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\ExpandableHeightGridView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\ExpandableTextView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\GPSTracker.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\RestaurantItemEntity.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\TouchImageView.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\TravelmateSnackbars.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\Utils.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\WeatherUtils.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\utils\WhatsNewStrings.java">
+</file>
+<file name="F:\downloads\Travel-Mate-5.6.2\Travel-Mate-5.6.2\Android\app\src\main\java\views\FontTextView.java">
+</file>
+</checkstyle>
